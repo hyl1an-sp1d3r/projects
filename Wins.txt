@@ -1,0 +1,52 @@
+First Run:
+PLAYER 2 hand:7, 13
+PLAYER 4 hand:13
+CARDS USED:3 7, 13 5 13 
+PLAYER 1 hand:2, 10
+PLAYER 3 hand:10
+CARDS USED:2, 10 1, 13 10 4 
+
+Second Run:
+PLAYER 3 hand:8, 12
+PLAYER 1 hand:12
+CARDS USED:12 4 8, 12 2 
+PLAYER 4 hand:1, 9
+PLAYER 2 hand:9
+CARDS USED:3 9 6 1, 9 
+
+Third Run:
+PLAYER 1 hand:3, 8
+PLAYER 3 hand:8
+CARDS USED:3, 8 12 8 7 
+PLAYER 3 hand:10, 3
+PLAYER 1 hand:3
+CARDS USED:3 9 10, 3 5 
+
+Fourth Run:
+PLAYER 2 hand:13, 5
+PLAYER 4 hand:5
+CARDS USED:12 13, 5 6 5 
+PLAYER 3 hand:13, 12
+PLAYER 1 hand:12
+CARDS USED:12 1 13, 12 4 
+
+Fifth Run:
+PLAYER 3 hand:6, 9
+PLAYER 1 hand:9
+CARDS USED:9 5 6, 9 1 
+PLAYER 1 hand:11, 1
+PLAYER 3 hand:1, 9
+CARDS USED:11, 1 7 1, 9 10 
+
+PLAYER 2 hand:2, 4
+PLAYER 4 hand:4
+CARDS USED:1 2, 4 5 4 
+PLAYER 3 hand:5, 7
+PLAYER 1 hand:7
+CARDS USED:7 4 5, 7 7 
+PLAYER 2 hand:3, 12
+PLAYER 4 hand:12
+CARDS USED:8 3, 12 10 12 
+PLAYER 1 hand:3, 13
+PLAYER 3 hand:13
+CARDS USED:3, 13 8 13 1 
